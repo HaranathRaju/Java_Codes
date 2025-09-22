@@ -9,7 +9,6 @@ public class SumAverageArray {
         average=sum/arr.length;
         System.out.println("sum of array elements :"+sum);
         System.out.println("average of array elements : "+average);
-
     }
-    
 }
+
